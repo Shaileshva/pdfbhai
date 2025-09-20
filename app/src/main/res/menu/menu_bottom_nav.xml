@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_files"     android:title="All files" android:icon="@drawable/baseline_allfiles_24"/>
+    <item android:id="@+id/nav_recent"    android:title="Recent"    android:icon="@drawable/baseline_recent_24"/>
+    <item android:id="@+id/nav_bookmarks" android:title="Bookmarks" android:icon="@drawable/baseline_bookmark_24"/>
+    <item android:id="@+id/nav_tools"     android:title="Tools"     android:icon="@drawable/baseline_tools_24"/>
+</menu>

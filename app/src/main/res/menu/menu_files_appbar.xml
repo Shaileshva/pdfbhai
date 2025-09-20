@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+<!--    <item android:id="@+id/action_premium" android:title="Premium" android:icon="" android:showAsAction="always"/>-->
+    <item android:id="@+id/action_search"  android:title="Search"  android:icon="@drawable/baseline_search_24" app:showAsAction="always"/>
+    <item android:id="@+id/action_sort"    android:title="Sort"    android:icon="@drawable/baseline_sort_24"   app:showAsAction="always"/>
+    <item android:id="@+id/action_select"  android:title="Select"  android:icon="@drawable/baseline_checklist_24" app:showAsAction="always"/>
+    <item android:id="@+id/action_settings" android:title="Settings" android:icon="@drawable/baseline_settings_24" app:showAsAction="always"/>
+</menu>
